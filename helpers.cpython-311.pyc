@@ -1,0 +1,2 @@
+Experiment,Model,Baseline Bal. Acc,Optimal Features (SHAP),Reduced Bal. Acc,Delta,Accuracy,Balanced Accuracy,ROC AUC,F1-Score,Precision,Sensitivity,Specificity
+Bladder Cancer vs Prostate Cancer,CatBoost,0.9119,40,0.9609,0.04898876404494379,0.957983193277311,0.9608614232209738,0.9704119850187266,0.9714285714285714,0.9883720930232558,0.9550561797752809,0.9666666666666667
