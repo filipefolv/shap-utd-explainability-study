@@ -6,7 +6,7 @@
 
 #### By [Filipe Ferreira de Oliveira](mailto:filipe.f.oliveira98@gmail.com) and [Matheus Becali Rocha](mailto:matheusbecali@gmail.com)
 
-This repository provides an end-to-end machine learning workflow for binary bladder cancer classification using clinical laboratory data, with emphasis on performance and interpretability.
+This repository provides an end-to-end machine learning workflow for Urinary Tract Disease classification using clinical laboratory data, with emphasis on performance and interpretability.
 
 The pipeline includes:
 
