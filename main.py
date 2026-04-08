@@ -628,31 +628,31 @@ def main():
             'pos_labels': 'Bladder Cancer',
             'neg_labels': 'Prostate Cancer'
         },
-        # {
-        #     'exp_name': 'Bladder Cancer vs Cystitis',
-        #     'pos_labels': 'Bladder Cancer',
-        #     'neg_labels': 'Cystitis'
-        # },
-        # {
-        #     'exp_name': 'Bladder Cancer vs Kidney Cancer',
-        #     'pos_labels': 'Bladder Cancer',
-        #     'neg_labels': 'Kidney Cancer'
-        # },
-        # {
-        #     'exp_name': 'Bladder Cancer vs Uterus Cancer',
-        #     'pos_labels': 'Bladder Cancer',
-        #     'neg_labels': 'Uterus Cancer'
-        # },
-        # {
-        #     'exp_name': 'Bladder Cancer vs Others',
-        #     'pos_labels': 'Bladder Cancer',
-        #     'neg_labels': 'Others'
-        # },
-        # {
-        #     'exp_name': 'Prostate Cancer vs Others',
-        #     'pos_labels': 'Prostate Cancer',
-        #     'neg_labels': 'Others'
-        # },
+        {
+            'exp_name': 'Bladder Cancer vs Cystitis',
+            'pos_labels': 'Bladder Cancer',
+            'neg_labels': 'Cystitis'
+        },
+        {
+            'exp_name': 'Bladder Cancer vs Kidney Cancer',
+            'pos_labels': 'Bladder Cancer',
+            'neg_labels': 'Kidney Cancer'
+        },
+        {
+            'exp_name': 'Bladder Cancer vs Uterus Cancer',
+            'pos_labels': 'Bladder Cancer',
+            'neg_labels': 'Uterus Cancer'
+        },
+        {
+            'exp_name': 'Bladder Cancer vs Others',
+            'pos_labels': 'Bladder Cancer',
+            'neg_labels': 'Others'
+        },
+        {
+            'exp_name': 'Prostate Cancer vs Others',
+            'pos_labels': 'Prostate Cancer',
+            'neg_labels': 'Others'
+        },
     ]
     
     print(f"\n   Total experiments to run: {len(experiments)}\n")
