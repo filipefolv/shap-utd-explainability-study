@@ -1,0 +1,52 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and Python version managers
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Build, packaging, and test artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Project generated outputs
+all_metrics.csv
+full_metrics.csv
+best_params.csv
+shap_features_cv_evaluation.csv
+
+best_params/
+catboost_info/
+confusion_matrices/
+data_splits/
+metrics_per_fold/
+saved_pipelines/
+shap_analysis_results/
